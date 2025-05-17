@@ -38,7 +38,7 @@
             "tooltip": ""
         },
         "Cookie": {
-            "name": "Cookie",
+            "name": "Biscuit",
             "tooltip": "Incredibly delicious"
         },
         "Fireflies": {
@@ -106,7 +106,7 @@
             "tooltip": ""
         },
         "CopperArmor": {
-            "name": "Copper Armor",
+            "name": "Copper Armour",
             "tooltip": ""
         },
         "CopperHelmet": {
@@ -126,7 +126,7 @@
             "tooltip": ""
         },
         "GoldArmor": {
-            "name": "Gold Armor",
+            "name": "Gold Armour",
             "tooltip": ""
         },
         "GoldHelmet": {
@@ -150,7 +150,7 @@
             "tooltip": "Chance to heal when hurt"
         },
         "IronArmor": {
-            "name": "Iron Armor",
+            "name": "Iron Armour",
             "tooltip": ""
         },
         "IronHelmet": {
@@ -198,7 +198,7 @@
             "tooltip": "+6 Inventory slots"
         },
         "StoneArmor": {
-            "name": "Stone Armor",
+            "name": "Stone Armour",
             "tooltip": ""
         },
         "StoneHelmet": {
@@ -210,7 +210,7 @@
             "tooltip": ""
         },
         "TikiArmor": {
-            "name": "Tiki Armor",
+            "name": "Tiki Armour",
             "tooltip": ""
         },
         "TikiMask": {
@@ -278,7 +278,7 @@
             "tooltip": ""
         },
         "Honeycomb": {
-            "name": "Honey Comb",
+            "name": "Honeycomb",
             "tooltip": ""
         },
         "IronBar": {
