@@ -1,0 +1,99 @@
+{
+    "Quips":
+    {
+        "Eat": 
+        [
+            "Meh.",
+            "Yum!",
+            "Needs more salt.",
+            "Reminds me of the surface."
+        ],
+        "EatBad": "I don't feel so good.",
+
+        "Critter": 
+        [
+           "Gotcha!",
+           "This one looks juicy.",
+           "I'll feed it to my Warthog."
+        ],
+
+        "FountainFail":
+        [
+            "I need an item."
+        ],
+
+        "FountainDry":
+        [
+            "It's dried up."
+        ],
+
+        "Fountain": 
+        [
+            "I hope nothing bad happens."
+        ],
+
+        "FountainOk": 
+        [
+            "Eh.",
+            "What a waste."
+        ],
+
+        "FountainGood": 
+        [
+            "Not bad!",
+            "Nice."
+        ],
+
+        "FountainLucky": 
+        [
+            "This is my lucky day!"
+        ],
+
+        "Displeased":
+        [
+            "Thanks for nothing."
+        ],
+
+        "Danger": 
+        [
+            "Run!",
+            "Whoops!"
+        ],
+
+        "Hurt":
+        [
+            "I'm hurt!",
+            "Ouch!"
+        ],
+
+        "RareItem": 
+        [
+            "Ooh!",
+            "What's that?",
+            "Is that rare?"
+        ],
+
+        "Campfire":
+        [
+            "Finally, some light.",
+            "Nice and cozy.",
+            "I can see again!"
+        ],
+
+        "CookFood":
+        [
+            "That smells good.",
+            "Smokey.",
+            "Hot!"
+        ],
+
+        "FailedCook": "That didn't work.",
+        "FailedTool": "I need a better tool.",
+        "FullInventory": "I'm holding too much!",
+        "FailedAction": "I can't do that.",
+
+        "Karma": "I hope they're not mad.",
+        
+        "DamagedTool": "This thing's about to break!"
+    }
+}

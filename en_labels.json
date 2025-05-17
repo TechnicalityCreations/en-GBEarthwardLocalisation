@@ -1,0 +1,89 @@
+{
+    "Labels":
+    {
+        "Material": "Material",
+        "Weapon": "Weapon",
+        "Tool": "Tool",
+        "Ring": "Ring",
+        "Chestplate": "Chestplate",
+        "Helmet": "Helmet",
+        "Shield": "Shield",
+        "Armor": "Armor",
+        "Boomerang": "Boomerang",
+        "Bag": "Bag",
+        "Amulet": "Amulet",
+        "Ammo": "Ammo",
+        "Rod": "Rod",
+        "Potion": "Potion",
+        "Tile": "Tile",
+        "CanBePlaced": "Can be placed",
+
+        "Interact": "Interact",
+        "Cook": "Cook",
+        "Sacrifice": "Sacrifice",
+        "Consume": "Consume",
+        "Place": "Place",
+        "Craft": "Craft",
+        "Drop": "Drop",
+        "Inventory": "Inventory",
+
+        "Damage": "Damage",
+        "Consumable": "Consumable",
+        "Durability": "Durability",
+        "Max Health": "Max Health",
+
+        "Melee": "Melee",
+        "Ranged": "Ranged",
+        "Magic": "Magic",
+        "Any": "Any",
+
+        "Fullscreen": "Fullscreen",
+        "Particles": "Particles",
+        "Advanced Particles": "Advanced Particles",
+        "Show Help": "Show Help",
+        "Healthbars": "Healthbars",
+        "Lighting": "Lighting",
+        "Music: ": "Music: ",
+        "Volume: ": "Volume: ",
+        "Graphics: ": "Graphics: ",
+        "Light Intensity": "Light Intensity",
+
+        "High": "High",
+        "Medium": "Medium",
+        "Low": "Low",
+        "Chat": "Chat",
+        
+        "Play": "Play",
+        "Resume": "Resume",
+        "Quit": "Quit",
+        "Controls": "Controls",
+        "Options": "Options",
+        "Back": "Back",
+
+        "Start": "Start",
+        "Loot": "Loot",
+        "[Loot]": "[Loot]",
+        "Use": "Use",
+
+        "discovered": "discovered",
+
+        "Wooden Chest": "Wooden Chest",
+        "Furnace": "Furnace",
+        "Anvil": "Anvil",
+        "Cauldron": "Cauldron",
+
+        "WindowCaption":
+        [
+            "My wife left me for this game!",
+            "The Terrible Purge",
+            "Underground Funnelcakes",
+            "The Snookle's Revenge",
+            "Don't catch Hiveling Hay-Fever!",
+            "Try Magacite!",
+            "Bitlands has nothing on us!",
+            "The Titan's Blessing",
+            "The Glass Eye",
+            "The Fallen Kingdom"
+        ]
+    }   
+}

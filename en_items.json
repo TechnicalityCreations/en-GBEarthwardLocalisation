@@ -1,0 +1,489 @@
+{
+    "items":
+    {
+        "ExampleItem": {
+            "name": "Example Item",
+            "tooltip": "This is a tooltip"
+        },
+        "Bird": {
+            "name": "Bluebird",
+            "tooltip": ""
+        },
+        "EyeballStaff": {
+            "name": "Seeing Stick",
+            "tooltip": "It is staring at you"
+        },
+        "BlueMushroom": {
+            "name": "Blue Mushroom",
+            "tooltip": ""
+        },
+        "Butterfly": {
+            "name": "Butterfly",
+            "tooltip": ""
+        },
+        "Eyeball": {
+            "name": "Worm Eye",
+            "tooltip": "It feels slimey"
+        },
+        "CookedBlueMushroom": {
+            "name": "Roasted Blue Mushroom",
+            "tooltip": ""
+        },
+        "CookedRedMushroom": {
+            "name": "Roasted Red Mushroom",
+            "tooltip": "gay"
+        },
+        "CookedTrout": {
+            "name": "Trout",
+            "tooltip": ""
+        },
+        "Cookie": {
+            "name": "Cookie",
+            "tooltip": "Incredibly delicious"
+        },
+        "Fireflies": {
+            "name": "Fireflies",
+            "tooltip": "You can't believe your eyes"
+        },
+        "FireflyJar": {
+            "name": "Firefly Jar",
+            "tooltip": "Releases fireflies"
+        },
+        "GiantRedMushroom": {
+            "name": "Giant Red Mushroom",
+            "tooltip": ""
+        },
+        "HealingPotion": {
+            "name": "Healing Potion",
+            "tooltip": ""
+        },
+        "Honey": {
+            "name": "Honey",
+            "tooltip": ""
+        },
+        "Nectar": {
+            "name": "Nectar",
+            "tooltip": "Drink of the Gods"
+        },
+        "Nightbloom": {
+            "name": "Nightbloom",
+            "tooltip": ""
+        },
+        "Pepper": {
+            "name": "Pepper",
+            "tooltip": ""
+        },
+        "RedMushroom": {
+            "name": "Red Mushroom",
+            "tooltip": ""
+        },
+        "RegenerationPotion": {
+            "name": "Afterglow",
+            "tooltip": "Regenerates health"
+        },
+        "Snail": {
+            "name": "Snail",
+            "tooltip": ""
+        },
+        "Soup": {
+            "name": "Mysterious Soup",
+            "tooltip": "It has chunks in it"
+        },
+        "StrengthPotion": {
+            "name": "Warrior's Flask",
+            "tooltip": ""
+        },
+        "SwiftnessPotion": {
+            "name": "Swiftness Potion",
+            "tooltip": ""
+        },
+        "TitanBerry": {
+            "name": "Titan Berry",
+            "tooltip": ""
+        },
+        "Trout": {
+            "name": "Trout",
+            "tooltip": ""
+        },
+        "CopperArmor": {
+            "name": "Copper Armor",
+            "tooltip": ""
+        },
+        "CopperHelmet": {
+            "name": "Copper Helmet",
+            "tooltip": ""
+        },
+        "CopperShield": {
+            "name": "Copper Shield",
+            "tooltip": ""
+        },
+        "EarthEnchantment": {
+            "name": "Earth",
+            "tooltip": ""
+        },
+        "EmeraldAmulet": {
+            "name": "Emerald Amulet",
+            "tooltip": ""
+        },
+        "GoldArmor": {
+            "name": "Gold Armor",
+            "tooltip": ""
+        },
+        "GoldHelmet": {
+            "name": "Gold Helmet",
+            "tooltip": ""
+        },
+        "GoldShield": {
+            "name": "Golden Shield",
+            "tooltip": ""
+        },
+        "TikiSheild": {
+            "name": "Bramble Shield",
+            "tooltip": "Attackers take damage"
+        },
+        "HikingBag": {
+            "name": "Hiking Bag",
+            "tooltip": "+6 Inventory slots"
+        },
+        "HoneyShield": {
+            "name": "Honeyed Buckler",
+            "tooltip": "Chance to heal when hurt"
+        },
+        "IronArmor": {
+            "name": "Iron Armor",
+            "tooltip": ""
+        },
+        "IronHelmet": {
+            "name": "Iron Helmet",
+            "tooltip": ""
+        },
+        "IronShield": {
+            "name": "Iron Shield",
+            "tooltip": ""
+        },
+        "KnightHelmet": {
+            "name": "Knight's Helmet",
+            "tooltip": ""
+        },
+        "LanternRing": {
+            "name": "Bramble Loop",
+            "tooltip": "Chance to Poison on hit"
+        },
+        "MossyRing": {
+            "name": "Mossy Ring",
+            "tooltip": ""
+        },
+        "MossyShield": {
+            "name": "Mossy Shield",
+            "tooltip": "Grants poison immunity"
+        },
+        "PeaceEnchantment": {
+            "name": "Peace",
+            "tooltip": "[Uncoded]"
+        },
+        "RubyAmulet": {
+            "name": "Ruby Amulet",
+            "tooltip": ""
+        },
+        "SapphireAmulet": {
+            "name": "Sapphire Amulet",
+            "tooltip": ""
+        },
+        "Satchel": {
+            "name": "Satchel",
+            "tooltip": "+4 Inventory slots"
+        },
+        "SnookleShell": {
+            "name": "Snookle Shell",
+            "tooltip": "+6 Inventory slots"
+        },
+        "StoneArmor": {
+            "name": "Stone Armor",
+            "tooltip": ""
+        },
+        "StoneHelmet": {
+            "name": "Stone Helmet",
+            "tooltip": ""
+        },
+        "StoneRing": {
+            "name": "Stone Ring",
+            "tooltip": ""
+        },
+        "TikiArmor": {
+            "name": "Tiki Armor",
+            "tooltip": ""
+        },
+        "TikiMask": {
+            "name": "Tiki Mask",
+            "tooltip": ""
+        },
+        "WoodenShield": {
+            "name": "Wooden Shield",
+            "tooltip": ""
+        },
+        "Ash": {
+            "name": "Ash",
+            "tooltip": ""
+        },
+        "Moly": {
+            "name": "Greek Moly",
+            "tooltip": "Used to make Greek Fire"
+        },
+        "AxeHandle": {
+            "name": "Axe Handle",
+            "tooltip": ""
+        },
+        "Bottle": {
+            "name": "Bottle",
+            "tooltip": "Used to craft potions"
+        },
+        "Bowl": {
+            "name": "Bowl",
+            "tooltip": ""
+        },
+        "Cloth": {
+            "name": "Cloth",
+            "tooltip": ""
+        },
+        "Coal": {
+            "name": "Coal",
+            "tooltip": ""
+        },
+        "Cobweb": {
+            "name": "Cobweb",
+            "tooltip": ""
+        },
+        "CopperBar": {
+            "name": "Copper Bar",
+            "tooltip": ""
+        },
+        "CopperOre": {
+            "name": "Copper Ore",
+            "tooltip": ""
+        },
+        "CurvedWood": {
+            "name": "Curved Blade",
+            "tooltip": ""
+        },
+        "EmberStone": {
+            "name": "Emberstone",
+            "tooltip": "It pulsates with heat"
+        },
+        "GoldBar": {
+            "name": "Gold Bar",
+            "tooltip": ""
+        },
+        "GoldOre": {
+            "name": "Gold Ore",
+            "tooltip": ""
+        },
+        "Honeycomb": {
+            "name": "Honey Comb",
+            "tooltip": ""
+        },
+        "IronBar": {
+            "name": "Iron Bar",
+            "tooltip": ""
+        },
+        "IronOre": {
+            "name": "Iron Ore",
+            "tooltip": ""
+        },
+        "Log": {
+            "name": "Log",
+            "tooltip": ""
+        },
+        "Marble": {
+            "name": "Marble",
+            "tooltip": ""
+        },
+        "Nitre": {
+            "name": "Nitre",
+            "tooltip": "Has explosive properties"
+        },
+        "PickaxeHandle": {
+            "name": "Pickaxe Handle",
+            "tooltip": ""
+        },
+        "RuneFragment": {
+            "name": "Rune Fragment",
+            "tooltip": "Used to craft enchantments"
+        },
+        "Stick": {
+            "name": "Stick",
+            "tooltip": ""
+        },
+        "Stone": {
+            "name": "Stone",
+            "tooltip": ""
+        },
+        "StoneBar": {
+            "name": "Stone Bar",
+            "tooltip": ""
+        },
+        "StoneBrick": {
+            "name": "Stone Bricks",
+            "tooltip": ""
+        },
+        "String": {
+            "name": "String",
+            "tooltip": ""
+        },
+        "SwordHandle": {
+            "name": "Sword Handle",
+            "tooltip": ""
+        },
+        "Vine": {
+            "name": "Vine",
+            "tooltip": ""
+        },
+        "WoodenPlank": {
+            "name": "Wooden Plank",
+            "tooltip": ""
+        },
+        "Anvil": {
+            "name": "Anvil",
+            "tooltip": ""
+        },
+        "Campfire": {
+            "name": "Campfire",
+            "tooltip": ""
+        },
+        "Cauldron": {
+            "name": "Cauldron",
+            "tooltip": ""
+        },
+        "TNTBundle": {
+            "name": "TNT Bundle",
+            "tooltip": ""
+        },
+        "BugNet": {
+            "name": "Bug Net",
+            "tooltip": "Used to catch critters"
+        },
+        "Cello": {
+            "name": "Cello",
+            "tooltip": ""
+        },
+        "CopperAxe": {
+            "name": "Copper Axe",
+            "tooltip": ""
+        },
+        "CopperPickaxe": {
+            "name": "Copper Pickaxe",
+            "tooltip": ""
+        },
+        "FishingRod": {
+            "name": "Fishing Rod",
+            "tooltip": "Can be cast into water"
+        },
+        "GoldAxe": {
+            "name": "Golden Axe",
+            "tooltip": ""
+        },
+        "GoldPickaxe": {
+            "name": "Gold Pickaxe",
+            "tooltip": ""
+        },
+        "IronAxe": {
+            "name": "Iron Axe",
+            "tooltip": ""
+        },
+        "IronPickaxe": {
+            "name": "Iron Pickaxe",
+            "tooltip": ""
+        },
+        "StoneAxe": {
+            "name": "Stone Axe",
+            "tooltip": ""
+        },
+        "StonePickaxe": {
+            "name": "Stone Pickaxe",
+            "tooltip": ""
+        },
+        "Torch": {
+            "name": "Torch",
+            "tooltip": ""
+        },
+        "TravelersAxe": {
+            "name": "Traveler's Axe",
+            "tooltip": ""
+        },
+        "WoodenAxe": {
+            "name": "Wooden Axe",
+            "tooltip": ""
+        },
+        "WoodenPickaxe": {
+            "name": "Wooden Pickaxe",
+            "tooltip": ""
+        },
+        "BaseballBat": {
+            "name": "Baseball Bat",
+            "tooltip": ""
+        },
+        "Boomerang": {
+            "name": "Boomerang",
+            "tooltip": ""
+        },
+        "CopperSword": {
+            "name": "Copper Sword",
+            "tooltip": ""
+        },
+        "Dynamite": {
+            "name": "Dynamite",
+            "tooltip": ""
+        },
+        "EnchantedSword": {
+            "name": "Enchanted Sword",
+            "tooltip": ""
+        },
+        "FireStaff": {
+            "name": "Fire Staff",
+            "tooltip": ""
+        },
+        "GoldSword": {
+            "name": "Gold Sword",
+            "tooltip": ""
+        },
+        "Grenade": {
+            "name": "Grenade",
+            "tooltip": ""
+        },
+        "IronSword": {
+            "name": "Iron Sword",
+            "tooltip": ""
+        },
+        "MagnifyingGlass": {
+            "name": "Magnifying Glass",
+            "tooltip": "I know what you've done"
+        },
+        "MossySword": {
+            "name": "Mossy Sword",
+            "tooltip": ""
+        },
+        "Slingshot": {
+            "name": "Slingshot",
+            "tooltip": ""
+        },
+        "Smushroom": {
+            "name": "Smushroom",
+            "tooltip": ""
+        },
+        "StoneLongsword": {
+            "name": "Stone Longsword",
+            "tooltip": "Has a long reach"
+        },
+        "StoneSword": {
+            "name": "Stone Sword",
+            "tooltip": ""
+        },
+        "WoodenBow": {
+            "name": "Wooden Bow",
+            "tooltip": ""
+        },
+        "WoodenSword": {
+            "name": "Wooden Sword",
+            "tooltip": ""
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "Inspector": {
+        "Inspect": "Combine this with a",
+        "InspectFail": "You can't craft with that.",
+
+        "TalkText": "Show me what you've found!",
+        "AngryText": "Eat glass!",
+
+        "IdleText": 
+        [
+            "Hold an item for me.",
+            "Have you seen my spare monocle?",
+            "Things are not what they seem."
+        ]
+    },
+
+    "Alchemist": {
+        "AngryText": "I will poison your family!",
+        "TalkText": "I'll be selling potions later.",
+    
+        "IdleText": 
+        [
+            "Need potions?",
+            "Kreln are great alchemists.",
+            "Have you heard of Greek Fire?"
+        ]
+    },
+
+    "Carpenter": {
+        "AngryText": "What's going on?",
+
+        "IdleText": 
+        [
+            "See my wares, traveler.",
+            "Get yer' lumber here!",
+            "I'm blind."
+        ]
+    },
+
+    "Blacksmith": {
+        "AngryText": "Meet the sharp end o' this pickaxe!",
+
+        "IdleText": 
+        [
+            "Got metals that need bloomin'?",
+            "Lost me arm to a hellspore.",
+            "I used to be a rebel in the Bitlands."
+        ]
+    },
+
+    "AngrySatyr": {
+        "AngryText": "You have poisoned the Earth!"
+    },
+
+    "Satyrette": {
+        "TalkText": "We Naiads protect nature.",
+        "AngryText": "You have poisoned the Earth!",
+
+        "IdleText": 
+        [
+            "Shalom.",
+            "All life is sacred.",
+            "May the mother bless you!"
+        ]
+    },
+
+    "Armorer": {
+        "AngryText": "The grave beckons!",
+
+        "IdleText": 
+        [
+            "Iron or Dragite, I can forge it.",
+            "They say the Grist see all.",
+            "I used to be an armorer in the King's army."
+        ]
+    },
+
+    "Merchant": {
+        "AngryText": "You scum!",
+
+        "IdleText": 
+        [
+            "Greetings!",
+            "Care to trade?",
+            "Psst! Want a mushroom?"
+        ]
+    },
+
+    "SatyretteFish": {
+        "TalkText": "We Naiads protect nature.",
+        "AngryText": "I will slap you with my trout!",
+
+        "IdleText": 
+        [
+            "I like fish.",
+            "Shalom.",
+            "Have you caught a Moss Fish?"
+        ]
+    },
+
+    "Wizard": {
+        "TalkText": "I'll have enchantments later.",
+        "AngryText": "Respect your elders!",
+    
+        "IdleText": 
+        [
+            "Have you ever used Void Storage?",
+            "Magic is inside of all living things.",
+            "Do you have any rune fragments?"
+        ]
+    }
+}

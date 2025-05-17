@@ -1,0 +1,15 @@
+{
+    "Events": 
+    {
+        "GaiaBlessing": "Gaia has blessed you!",
+        "KronosBlessing": "Kronos has blessed you!",
+        "PhoebeBlessing": "Phoebe has blessed you!",
+        "GaiaCurse": "Gaia has cursed you!",
+        "KronosCurse": "Kronos has cursed you!",
+        "PhoebeCurse": "Phoebe has cursed you!",
+
+        "CauldronFailedSlots": "Fill all slots!",
+        "CauldronFailed": "You can't mix that.",
+        "NoRuneFragment": "You need a rune fragment."
+    }
+}
