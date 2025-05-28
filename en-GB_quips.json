@@ -4,7 +4,7 @@
         "Eat": 
         [
             "Meh.",
-            "Yum!",
+            "Yummy!",
             "Needs more salt.",
             "Reminds me of the surface."
         ],
@@ -57,13 +57,13 @@
         "Danger": 
         [
             "Run!",
-            "Whoops!"
+            "Oops!"
         ],
 
         "Hurt":
         [
             "I'm hurt!",
-            "Ouch!"
+            "Ow!"
         ],
 
         "RareItem": 
