@@ -9,6 +9,10 @@
             "name": "Bluebird",
             "tooltip": ""
         },
+        "HoneyBat": {
+            "name": "Honey Bat",
+            "tooltip": "Sweet, but painful"
+        },
         "EyeballStaff": {
             "name": "Seeing Stick",
             "tooltip": "It is staring at you"
@@ -88,6 +92,10 @@
         "Soup": {
             "name": "Mysterious Soup",
             "tooltip": "It has chunks in it"
+        },
+        "GreekFire": {
+            "name": "Greek Fire",
+             "tooltip": "Water cannot put it out"
         },
         "StrengthPotion": {
             "name": "Warrior's Flask",

@@ -11,9 +11,9 @@
             "Hold an item for me.",
             "Have you seen my spare monocle?",
             "Things are not what they seem."
-        ]
+        ],
+        "EpicText": "You are having a bad time..."
     },
-
     "Alchemist": {
         "AngryText": "I will poison your family!",
         "TalkText": "I'll be selling potions later.",
@@ -74,7 +74,16 @@
             "I used to be an armourer in the King's army."
         ]
     },
-
+    "Tumor": {
+        "IdleText": [
+            "You will fall, hero.",
+            "The Grist sees all.",
+            "It is useless to fight.",
+            "Do you believe you can win?",
+            "I am all powerful.",
+            "Join me, like the others."
+        ]
+    },
     "Merchant": {
         "AngryText": "You scum!",
 

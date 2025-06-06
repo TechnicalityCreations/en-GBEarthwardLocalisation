@@ -8,7 +8,7 @@
         "Chestplate": "Chestplate",
         "Helmet": "Helmet",
         "Shield": "Shield",
-        "Armor": "Armour",
+        "Armour": "Armour",
         "Boomerang": "Boomerang",
         "Bag": "Bag",
         "Amulet": "Amulet",
@@ -30,7 +30,8 @@
         "Damage": "Damage",
         "Consumable": "Consumable",
         "Durability": "Durability",
-        "Max Health": "Max Health",
+        "MaxHealth": "Max Health",
+        "MovementSpeed": "Movement Speed",
 
         "Melee": "Melee",
         "Ranged": "Ranged",
@@ -41,7 +42,7 @@
         "Particles": "Particles",
         "Advanced Particles": "Advanced Particles",
         "Show Help": "Show Help",
-        "Healthbars": "Healthbars",
+        "Healthbars": "Health Bars",
         "Lighting": "Lighting",
         "Music: ": "Music: ",
         "Volume: ": "Volume: ",
@@ -72,6 +73,27 @@
         "Anvil": "Anvil",
         "Cauldron": "Cauldron",
 
+        "Settings": "Settings",
+        "Player": "Player",
+        "Profession": "Profession",
+        "Help": "Help",
+        "Close": "Close",
+        "Debug Mode": "Debug Mode",
+        "Save & Quit": "Save & Quit",
+        "Day": "Day",
+        "Locked": "Locked",
+        "LockedSelection": "(Locked)",
+        "Randomise": "Randomise",
+        "Create": "Create",
+        "Race": "Race",
+        "Companion": "Companion",
+        "Crit": "Crit!",
+        "Tier 0": "(Tier 0)",
+        "Tier 1": "(Tier I)",
+        "Tier 2": "(Tier II)",
+        "Tier 3": "(Tier III)",
+        "LoadingWorld": "Loading World",
+        "StrengthSkillDescription": "Increases damage by 1",
         "WindowCaption":
         [
             "My wife left me for this game!",
@@ -86,4 +108,4 @@
             "The Fallen Kingdom"
         ]
     }   
-}
+} 

@@ -6,7 +6,11 @@
             "Meh.",
             "Yum!",
             "Needs more salt.",
-            "Reminds me of the surface."
+            "Reminds me of the surface.",
+            "Crunchy.",
+            "Not bad.",
+            "I've had worse.",
+            "It's cold."
         ],
         "EatBad": "I don't feel so good.",
 
@@ -14,7 +18,14 @@
         [
            "Gotcha!",
            "This one looks juicy.",
-           "I'll feed it to my Warthog."
+           "I'll feed it to my Warthog.",
+           "Why does it look tasty?",
+           "I wonder if I can cook it."
+        ],
+
+        "Sense":
+        [
+            "I sense something coming..."
         ],
 
         "FountainFail":
@@ -87,11 +98,26 @@
             "Hot!"
         ],
 
+        "PlayerIdle":
+        [
+            "Ever just contemplate life?",
+            "Why are we even here?",
+            "Did I leave the stove on?",
+            "I'm tired of waiting around.",
+            "Let's leave before the Virus comes."
+        ],
+        
         "FailedCook": "That didn't work.",
         "FailedTool": "I need a better tool.",
         "FullInventory": "I'm holding too much!",
-        "FailedAction": "I can't do that.",
-
+        
+        "FailedAction":
+        [
+            "I can't do that.",
+            "That didn't work.",
+            "Let's try something else."
+        ],
+        
         "Karma": "I hope they're not mad.",
         
         "DamagedTool": "This thing's about to break!"
